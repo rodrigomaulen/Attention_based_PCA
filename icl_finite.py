@@ -1,4 +1,4 @@
-#Figure 6a
+#Figure 7a
 
 import matplotlib
 matplotlib.use('Agg')

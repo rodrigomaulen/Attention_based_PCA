@@ -1,5 +1,5 @@
 # JAX script: GD on R_lin,L and alignment with top eigenvector
-#Figure 3b
+#Figure 4b
 
 import matplotlib
 matplotlib.use('Agg')

@@ -1,5 +1,5 @@
 # JAX script: alignment vs dimension for analytic risk
-#Figure 5a
+#Figure 6a
 
 import matplotlib
 matplotlib.use('Agg')

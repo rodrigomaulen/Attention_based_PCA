@@ -1,4 +1,5 @@
 # Combined ICL experiment: GD (infinite) vs SGD (finite)
+#Figure 2
 
 import matplotlib
 matplotlib.use('Agg')

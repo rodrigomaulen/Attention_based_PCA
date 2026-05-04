@@ -1,5 +1,5 @@
 # JAX softmax SGD experiment with multiple runs + seaborn plot
-#Figure 2a
+#Figure 3a
 
 import matplotlib
 matplotlib.use('Agg')

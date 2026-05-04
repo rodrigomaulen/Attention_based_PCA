@@ -1,5 +1,5 @@
 # JAX script: gradient descent on R(mu) and alignment with top eigenvector 
-#Figure 2b
+#Figure 3b
 
 import matplotlib
 matplotlib.use('Agg')

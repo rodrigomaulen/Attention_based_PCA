@@ -1,5 +1,5 @@
 # JAX script: ICL infinite — alignment vs dimension
-#Figure 7b
+#Figure 8b
 
 import matplotlib
 matplotlib.use('Agg')

@@ -1,5 +1,5 @@
 # JAX script: alignment vs dimension for R_lin,L
-# Figure 5b
+# Figure 6b
 
 import matplotlib
 matplotlib.use('Agg')

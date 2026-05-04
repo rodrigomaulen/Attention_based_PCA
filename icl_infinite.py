@@ -1,4 +1,4 @@
-#Figure 6b
+#Figure 7b
 
 import matplotlib
 matplotlib.use('Agg')
@@ -22,10 +22,10 @@ print("Saving to:", results)
 n = 10
 d = 5
 xi = 1
-theta = 2
+theta = 0.1
 lam = 1e-3
 lr = 5e-3
-num_steps = 1000
+num_steps = 10001
 n_runs = 10
 
 xi2 = xi**2
@@ -110,7 +110,7 @@ for run in range(n_runs):
 
         mu_norm_history.append(align)
 
-        if step % 1000 == 0:
+        if step % 5000 == 0:
             print(f"Run {run+1}, Step {step}, alignment: {align:.6f}")
 
         if jnp.isnan(g).any():

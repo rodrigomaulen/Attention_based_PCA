@@ -1,5 +1,5 @@
 # JAX experiment: performance softmax vs sequence length L
-#Figure 4a
+#Figure 5a
 
 import matplotlib
 matplotlib.use('Agg')
